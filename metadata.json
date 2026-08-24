@@ -1,0 +1,6 @@
+{
+  "name": "PhonePulse Tracker",
+  "description": "Track, understand, and analyze Android phone usage across multiple people with comprehensive reports and trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
